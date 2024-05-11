@@ -2,7 +2,7 @@ package ED_T6_RA04;
 
 /**
  *
- * @author felip
+ * @author felipe
  */
 public class Main {
 
